@@ -21,18 +21,16 @@
 
 ### Skills
 
-<p align="center">
+<h3 align="left">
 <a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width="36" height="36" alt="Django" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Git" /></a>
-</p>
+</h3>
 
 ## 📨 Connect with me:
 <p align="left"> 
 <a href="http://www.instagram.com/behshadrhp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</p>
-<p align="left"> 
 <a href="https://t.me/MrPyCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="32" height="32" /></a>
 </p>
 
