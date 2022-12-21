@@ -21,7 +21,7 @@
 
 ## 📨 Connect with me:
 <p align="left"> 
-<a href="http://www.instagram.com/behshadrhp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
+<a href="https://www.instagram.com/behshadrhp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 <a href="https://t.me/MrPyCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="40" height="40" /></a>
 </p>
 
