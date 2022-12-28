@@ -42,7 +42,9 @@
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
 
-<img alt="Night Coding" src="assets/Night-Coding.gif" align="right" top="40px" height="150px" />
+<br>
+<img alt="Night Coding" src="assets/Night-Coding.gif" align="right"  height="150px" />
+<br>
 
 ### 👔 Soft skills
 
