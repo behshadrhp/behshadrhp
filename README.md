@@ -44,11 +44,11 @@
 
 ### 👔 Soft skills
 
-✅ Work collaboratively in a team
+- 🏌️ Participation and presence in team work
 
-✅ Meet tight deadlines
+- ⌛️ Meet tight deadlines 
 
-✅ Good communication skills
+- ❣️ Good communication skills 
 
 <hr>
 
