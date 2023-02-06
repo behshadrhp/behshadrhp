@@ -8,10 +8,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 - 🚀 &nbsp; I love programming and I enjoy facing challenges :)
-- 👨🏻‍💻 &nbsp; I'm a developer and project manager.
+- 👨🏻‍💻 &nbsp; I am a developer and project manager as well as an ideator.
 - ⚡ &nbsp; I love programming with Python and the Django framework.
 - 💻 &nbsp; Presently, I'm developing Softwares & apps with Django.
-- 🌱 &nbsp; Learning more about computers and backend.
+- 🌱 &nbsp; i love in learning more about computers and backends.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
