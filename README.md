@@ -1,5 +1,5 @@
 <h1>Hi , I'm Behshad RahmanPour<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>  JUNIOR DJANGO DEVELOPER </h2>
+<h2>Web DEVELOPER </h2>
 
 ![gitartwork](assets/gitartwork.svg)
 
