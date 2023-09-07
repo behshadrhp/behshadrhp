@@ -64,6 +64,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/behshadrhp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/behshadrhp"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-431c36?style=for-the-badge&logo=instagram&logoColor=blue"></a>
-<a href="https://t.me/MrPyCode"><img alt="Telegram" src="https://img.shields.io/badge/telegram-fff?style=for-the-badge&logo=telegram&logoColor=blue"></a>
+<a href="https://t.me/behshadrhp"><img alt="Telegram" src="https://img.shields.io/badge/telegram-fff?style=for-the-badge&logo=telegram&logoColor=blue"></a>
 <a href="behshad.rahmanpour@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
