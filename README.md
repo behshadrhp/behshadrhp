@@ -1,5 +1,5 @@
-<h1>Hi , I'm Behshad RahmanPour<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>Web DEVELOPER </h2>
+<h1 align="center">Hi 👋, I'm Behshad RahmanPour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center">Backend Developer | Python & Django Enthusiast | AI & SaaS Builder</h2>
 
 ![gitartwork](assets/gitartwork.svg)
 
@@ -7,11 +7,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-- 🚀 &nbsp; I love programming and I enjoy facing challenges :)
-- 👨🏻‍💻 &nbsp; I am a developer and project manager as well as an ideator.
-- ⚡ &nbsp; I love programming with Python and the Django framework.
-- 💻 &nbsp; Presently, I'm developing Softwares & apps with Django.
-- 🌱 &nbsp; i love in learning more about computers and backends.
+## 💻 About Me
+- 🚀 Passionate about building scalable backend systems and AI-powered SaaS applications  
+- 👨🏻‍💻 Experienced in Python, Django, DRF, Celery, Redis, RabbitMQ, PostgreSQL & cloud deployments  
+- 🌱 Lifelong learner, exploring advanced backend architectures, security, and distributed systems  
+- ⚡ I love tackling challenging problems and turning ideas into production-ready code  
+- 💡 Also experienced in leading small teams and coordinating full-stack development projects  
+
+---
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,28 +43,29 @@
   ![Fedora](https://img.shields.io/badge/-Fedora-333333?style=flat&logo=fedora)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
+---
 
-### 👔 Soft skills
+## 👔 Soft Skills
 
-- 🏌️ Participation and presence in team work
+- 💡 Problem-solving & critical thinking  
+- 🤝 Teamwork & collaboration  
+- ⏱ Ability to meet tight deadlines  
+- 🗣 Effective communication & mentoring  
 
-- ⌛️ Meet tight deadlines 
+---
 
-- ❣️ Good communication skills 
-
-<hr>
-
-### ⚙️ &nbsp;GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/behshadrhp">
+  <a href="https://github.com/behshadrhp">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=behshadrhp&&theme=radical&show_icons=true&count_private=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behshadrhp&theme=radical&layout=compact"/>
-    </a>
+  </a>
 </p>
 
+---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/behshadrhp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/behshadrhp"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-431c36?style=for-the-badge&logo=instagram&logoColor=blue"></a>
 <a href="https://t.me/behshadrhp"><img alt="Telegram" src="https://img.shields.io/badge/telegram-fff?style=for-the-badge&logo=telegram&logoColor=blue"></a>
