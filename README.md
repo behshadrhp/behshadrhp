@@ -7,7 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-## 💻 About Me
 - 🚀 Passionate about building scalable backend systems and AI-powered SaaS applications  
 - 👨🏻‍💻 Experienced in Python, Django, DRF, Celery, Redis, RabbitMQ, PostgreSQL & cloud deployments  
 - 🌱 Lifelong learner, exploring advanced backend architectures, security, and distributed systems  
